@@ -1688,6 +1688,13 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   }
 }
 
+@media (min-width: 768px) {
+    .noMargin > img {
+        margin-top: 0px;
+    }
+}
+
+
 @media (min-width: 768px){
     .landing-page .navbar-top{
         padding-top: 10px;
