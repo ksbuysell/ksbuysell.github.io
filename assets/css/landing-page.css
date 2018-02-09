@@ -1652,7 +1652,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     height: 550px;
   }
   .landing-page .parallax .parallax-background img {
-    width: 100%;
+    width: auto;
     height: 100%;
   }
   .landing-page .parallax .description{
