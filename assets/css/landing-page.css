@@ -990,8 +990,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   height: 100%;
 }
 .landing-page .parallax .parallax-background img{
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 100%;
   position: relative;
 }
 .landing-page .parallax .parallax-image{
