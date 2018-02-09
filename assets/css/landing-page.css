@@ -1643,7 +1643,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   .navbar-toggle{
     padding: 16px 10px;
   }
-  
+
   .landing-page .wrapper{
     text-align: center;
   }
@@ -1652,8 +1652,8 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
     height: 550px;
   }
   .landing-page .parallax .parallax-background img {
-    width: auto;
-    height: 100%;
+    width: 100%;
+    height: auto;
   }
   .landing-page .parallax .description{
     margin-top: 140px;  }
