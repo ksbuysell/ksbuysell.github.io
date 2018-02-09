@@ -839,7 +839,7 @@ a:focus, a:active {
     overflow: hidden;
     border-radius: 50%;
     width: 150px;
-    float: left;
+    
 }
 
 .logo-container .brand{
