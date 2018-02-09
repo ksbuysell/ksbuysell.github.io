@@ -839,7 +839,7 @@ a:focus, a:active {
     overflow: hidden;
     border-radius: 50%;
     width: 150px;
-    
+
 }
 
 .logo-container .brand{
@@ -1643,9 +1643,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#de8e0009', e
   .navbar-toggle{
     padding: 16px 10px;
   }
-  .logo-container .logo{
-    margin-left: 25%;
-  }
+  
   .landing-page .wrapper{
     text-align: center;
   }
