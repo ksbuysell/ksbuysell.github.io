@@ -1,3 +1,3 @@
 # ksbuysell.github.io
 
-TEST
+Homepage for KS Buy & Sell
